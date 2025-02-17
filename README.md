@@ -1,27 +1,30 @@
-# CrudAngular
+# CRUD Angular
+Este projeto é um CRUD desenvolvido com Angular. Ele permite criar, ler, atualizar e excluir registros de forma eficiente, utilizando boas práticas de desenvolvimento.
+Este projeto é desenvolvido com o Angular na versão 12.2.2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
-## Development server
+🚀 Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Angular
 
-## Code scaffolding
+- TypeScript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular Material (UI)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+⚙️ Instalação e Configuração
 
-## Running unit tests
+1️⃣ Clone o repositório
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
 
-## Running end-to-end tests
+2️⃣ Instale as dependências
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+npm install
 
-## Further help
+3️⃣ Execute o projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ng serve
+
+Acesse http://localhost:4200/ no navegador.
