@@ -16,15 +16,15 @@ Este projeto é desenvolvido com o Angular na versão 12.2.2
 
 1️⃣ Clone o repositório
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+`git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio`
 
 2️⃣ Instale as dependências
 
-npm install
+`npm install`
 
 3️⃣ Execute o projeto
 
-ng serve
+`ng serve`
 
 Acesse http://localhost:4200/ no navegador.
