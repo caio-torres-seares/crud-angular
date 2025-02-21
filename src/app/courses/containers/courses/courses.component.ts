@@ -38,12 +38,16 @@ export class CoursesComponent implements OnInit {
         data: errorMsg
       });
   }
+  ngOnInit(): void {
+  }
 
   onAdd(){
     this.router.navigate(['new'], {relativeTo: this.route});
   }
 
-  ngOnInit(): void {
+  onEdit(course: Course){
+    this.router.navigate(['edit', course._id], {relativeTo: this.route});
   }
+
 
 }
